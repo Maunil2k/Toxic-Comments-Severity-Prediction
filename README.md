@@ -1,2 +1,2 @@
-# toxic_comments_severity_prediction
+# Toxic Comments Severity Prediction
 predicting severity score of toxic comments
